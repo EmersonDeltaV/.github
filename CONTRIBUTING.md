@@ -10,7 +10,7 @@ Here are the responsibilities and processes regarding the Emerson DeltaV GitHub 
 
 Here are their responsibilities:
 
-   * **Code of Conduct:** Contributors will follow our [Code of Conduct](https://dev.azure.com/EmersonPSS/PSS/_git/Amber_Github?path=/code-of-conduct.md&_a=preview) in managing code. We will update this section with links to our code of conduct page once we allow public contributors.
+   * **Code of Conduct:** Contributors will follow our [Code of Conduct](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/2000/Code-of-Conduct) in managing code. We will update this section with links to our code of conduct page once we allow public contributors.
    * **Avoid Sensitive Information:** Never commit sensitive information. If you accidentally do so, promptly notify the owners via email at [opensource.deltav@emerson.com](mailto:opensource.deltav@emerson.com?subject=Concern).
 
 # Processes
@@ -19,7 +19,7 @@ Here are their responsibilities:
 
 Contributors need to follow these steps when requesting a new repository:
 
-1. **Answer our Emerson internal document [licensing-questionnaire](https://dev.azure.com/EmersonPSS/PSS/_git/Amber_Github?path=/licensing-questionnaire.md&_a=preview).** This ensures that the owners and legal team understand which license is appropriate for the new repo.
+1. **Answer our Emerson internal document [licensing-questionnaire](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/2004/Licensing-Questionnaire).** This ensures that the owners and legal team understand which license is appropriate for the new repo.
 2. **Send an email** to [opensource.deltav@emerson.com](mailto:opensource.deltav@emerson.com) with the subject **[DeltaV GitHub] Request New Repo** and include the following information:
    * Proposed Name
    * Product
@@ -40,4 +40,4 @@ It is the responsibility of all contributors to avoid committing any sensitive d
 Any concerns in mind or if you want to share any suggestions, don't hesitate to contact us by sending an email to [opensource.deltav@emerson.com](mailto:opensource.deltav@emerson.com?subject=Feedback)
 
 > [NOTE]
->For Emerson employees, more details on using GitHub can be found [here](https://dev.azure.com/EmersonPSS/PSS/_git/Amber_Github), in Azure DevOps.
+>For Emerson employees, more details on using GitHub can be found [here](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/1998/DeltaV-Github), in Azure DevOps.
