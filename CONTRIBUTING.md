@@ -1,4 +1,4 @@
-For Emerson employees, more details on using GitHub can be found [here](https://dev.azure.com/EmersonPSS/PSS/_git/Amber_Github), in Azure DevOps.
+For Emerson employees, more details on using GitHub can be found [here](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/1998/DeltaV-Github), in Azure DevOps.
 
 This document outlines the responsibilities and processes regarding the **Emerson DeltaV GitHub** org account.
 
@@ -9,13 +9,13 @@ Contributors play a crucial role in maintaining the project. The contributor rol
 
 Here are their responsibilities:
 
-   * **Code of Conduct:** For Emerson employees, the code of conduct can be found [here](https://dev.azure.com/EmersonPSS/PSS/_git/Amber_Github?path=/code-of-conduct.md&_a=preview) in Azure DevOps.
+   * **Code of Conduct:** For Emerson employees, the code of conduct can be found [here](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/2000/Code-of-Conduct) in Azure DevOps.
    * **Avoid Sensitive Information:** Never commit sensitive information. If you accidentally do so, promptly notify the owners via email at [opensource.deltav@emerson.com](mailto:opensource.deltav@emerson.com?subject=Concern).
    * **Coverity Check:** Contributors should execute the Coverity check before committing any changes to any repository.
 
 ## Owners
 
-For owner responsibilities, please read our Emerson internal document [here](https://dev.azure.com/EmersonPSS/PSS/_git/Amber_Github?path=/how-to-contribute.md&_a=preview&anchor=owners). 
+For owner responsibilities, please read our Emerson internal document [here](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/2002/How-To-Contribute?anchor=owners). 
 
 # Processes
 
@@ -24,7 +24,7 @@ For owner responsibilities, please read our Emerson internal document [here](htt
 ### Contributor Responsibilities
 Contributors need to follow these steps when requesting a new repository:
 
-1. **Answer our Emerson internal document [licensing-questionnaire](https://dev.azure.com/EmersonPSS/PSS/_git/Amber_Github?path=/licensing-questionnaire.md&_a=preview).** This ensures that the owners and legal team understand which license is appropriate for the new repo.
+1. **Answer our Emerson internal document [licensing-questionnaire](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/2004/Licensing-Questionnaire).** This ensures that the owners and legal team understand which license is appropriate for the new repo.
 2. **Send an email** to [opensource.deltav@emerson.com](mailto:opensource.deltav@emerson.com) with the subject **[DeltaV GitHub] Request New Repo** and include the following information:
    * Proposed Name
    * Product
@@ -39,13 +39,13 @@ Contributors need to follow these steps when requesting a new repository:
 
 ### Owner Responsibilities
 
-When a request to create a new repository is received, please follow our Emerson internal document [here](https://dev.azure.com/EmersonPSS/PSS/_git/Amber_Github?path=/how-to-contribute.md&_a=preview&anchor=owner-responsibilities).
+When a request to create a new repository is received, please follow our Emerson internal document [here](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/2002/How-To-Contribute?anchor=owner-responsibilities).
 
 ## Mitigating Committed Sensitive Data
 
 It is the responsibility of all contributors to avoid committing any sensitive data. However, if sensitive data is accidentally committed, contributors must send an email to [opensource.deltav@emerson.com](mailto:opensource.deltav@emerson.com?subject=Concern) as soon as possible.
 
-For owners, please read the instruction from [this](https://dev.azure.com/EmersonPSS/PSS/_git/Amber_Github?path=/how-to-contribute.md&_a=preview&anchor=mitigating-committed-sensitive-data) section of our Emerson internal document.
+For owners, please read the instruction from [this](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/2002/How-To-Contribute?anchor=mitigating-committed-sensitive-data) section of our Emerson internal document.
 
 # Feedback
 
