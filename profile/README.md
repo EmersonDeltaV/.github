@@ -11,5 +11,12 @@ On this portal, you'll find:
 * **Community forum**: Connect with DeltaV users worldwide, share knowledge, collaborate, and help build a stronger DeltaV community. 
 
 -----
+### Featured DeltaV™ Automation Solution 
+
+| <a href="https://github.com/EmersonDeltaV/deltav-edge"><img src="https://github.com/EmersonDeltaV/.github/blob/main/profile/deltav-edge-logo.png" width=150 >|
+|------|
+| Provides easy and secure access to DeltaV data for use on premise or in the cloud for monitoring, analytics, reporting or other Enterprise applications to drive operational improvements. Explore the <a href="https://github.com/EmersonDeltaV/deltav-edge"> DeltaV Edge Environment</a> repository to learn more.| 
+
+-----
 
 Let's build a positive and inclusive DeltaV community together! For guidance on policies and workflows in this organization, refer to the [CONTRIBUTING](https://github.com/EmersonDeltaV/.github/blob/main/CONTRIBUTING.md) document.
