@@ -11,7 +11,7 @@ On this portal, you'll find:
 * **Community forum**: Connect with DeltaV users worldwide, share knowledge, collaborate, and help build a stronger DeltaV community. 
 
 -----
-### Featured DeltaV™ Automation Solution 
+### Featured DeltaV Automation Platform Technologies 
 
 | Solution | Description | Related Repositories |
 |------|-------|--------|
