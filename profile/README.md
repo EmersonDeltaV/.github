@@ -15,7 +15,7 @@ On this portal, you'll find:
 
 | Solution | Description | Related Repositories |
 |------|-------|--------|
-| <a href="https://github.com/EmersonDeltaV/deltav-edge"><img src="https://github.com/EmersonDeltaV/.github/blob/main/profile/deltav-edge-logo.png" width=150 > | Provides easy and secure access to DeltaV data for use on premise or in the cloud for monitoring, analytics, reporting or other Enterprise applications to drive operational improvements. Explore the <a href="https://github.com/EmersonDeltaV/deltav-edge"> deltav-edge</a> repository to learn more.|  [topic: deltav-edge](https://github.com/search?q=org%3AEmersonDeltaV+topic%3Adeltav-edge&type=repositories)
+| <a href="https://github.com/EmersonDeltaV/deltav-edge"><img src="https://github.com/EmersonDeltaV/.github/blob/main/profile/deltav-edge-logo.png" width=150 > | Provides easy and secure access to DeltaV data for use on premise or in the cloud for monitoring, analytics, reporting or other Enterprise applications to drive operational improvements. Explore the <a href="https://github.com/EmersonDeltaV/deltav-edge"> deltav-edge</a> repository to learn more.|  [deltav-edge](https://github.com/search?q=org%3AEmersonDeltaV+topic%3Adeltav-edge&type=repositories)
 
 -----
 
