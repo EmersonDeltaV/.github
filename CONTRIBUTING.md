@@ -3,7 +3,7 @@ This document outlines the responsibilities and processes regarding the **Emerso
 
 ## Contributing Guidelines
 
-For Emerson employees, more details on using GitHub can be found [here](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/1998/DeltaV-Github), in Azure DevOps.
+For Emerson employees, more details on using GitHub can be found [here](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/1998/DeltaV-Github)
 
 
 ---
@@ -16,7 +16,7 @@ Contributors play a crucial role in maintaining the project. The contributor rol
 
 Contributors **must**:
 
-- Follow the Emerson Code of Conduct  
+- Follow the [Emerson Code of Conduct](https://dev.azure.com/EmersonPSS/PSS/_wiki/wikis/PSS.wiki/2000/Code-of-Conduct)  
 - Ensure all submitted content meets security and compliance requirements  
 - Execute required validation checks (e.g., Coverity) prior to committing  
 
